@@ -3,6 +3,9 @@ About Me
 
 ### District Principal
 2017-
+    if (isAwesome){
+      return true
+    }
 
 ### Educator
 July 2006 - Sept. 2017
