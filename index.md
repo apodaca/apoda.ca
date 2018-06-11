@@ -14,5 +14,3 @@ High School
 K-8 Mathematics
 
 ### Technology Integration Specialist / Network Management
-
-#test
