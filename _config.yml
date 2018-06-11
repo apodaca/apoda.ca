@@ -1,0 +1,8 @@
+title: Apoda.ca
+description: Mr. Apodaca's Teacher Homepate
+google_analytics: UA-67258684-2
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
