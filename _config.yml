@@ -1,7 +1,7 @@
 title: Apoda.ca
 description: Mr. Apodaca's Educator Homepage
 google_analytics: UA-67258684-2
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 gems:
