@@ -13,7 +13,7 @@ July 2006 - Sept. 2017
 - PreCalculus
 - AP Computer Science
 - Elective Engineering Drafting and Design
-###### Curriculum
+  ###### Curriculum
 * Eureka Mathematics
 * CS50
 
@@ -21,7 +21,7 @@ July 2006 - Sept. 2017
 * 6th Grade Mathematics
 * 7th Grade Mathematics
 * 8th Grade Mathematics
-###### Curriculum
+  ###### Curriculum
 * Eureka Math
 
 ### Instructional Coach
