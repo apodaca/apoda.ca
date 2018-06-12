@@ -1,6 +1,7 @@
 ## Welcome to Mr. Apodaca's Educator Homepage.
 
 <img align="right" width="250" src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1590/2018/02/09154950/logo_outline.png">
+
 ##### About Me
 
 
