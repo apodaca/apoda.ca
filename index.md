@@ -1,6 +1,9 @@
 ## Welcome to Mr. Apodaca's Educator Homepage.
 ##### About Me
 
+
+---
+
 #### District Principal
 2017-
 
