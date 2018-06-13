@@ -1,6 +1,7 @@
 <img align="right" width="250" src="https://avatars0.githubusercontent.com/u/7614769?s=400&v=4">
 
 ### About Me
+Bio
 
 
 ---
@@ -48,8 +49,7 @@ July 2006 - Sept. 2017
 </p>
 </details>
 
-#### 
-
+---
 
 ### Instructional Coach
   2013-2016
