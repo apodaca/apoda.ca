@@ -6,7 +6,10 @@
 ---
 
 
-<details><summary> #### District Principal </summary>
+<details>
+  <summary>
+    District Principal 
+  </summary>
 <p>
 2017-
 </p>
