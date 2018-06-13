@@ -6,7 +6,12 @@
 ---
 
 #### District Principal
+<details><summary>More Information</summary>
+<p>
 2017-
+</p>
+</details>
+
 
 #### Classroom Teacher
 July 2006 - Sept. 2017
