@@ -1,4 +1,4 @@
-<img align="right" width="250" src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1590/2018/02/09154950/logo_outline.png">
+<img align="right" width="250" src="https://avatars0.githubusercontent.com/u/7614769?s=400&v=4">
 
 ### About Me
 
