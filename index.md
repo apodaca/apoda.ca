@@ -21,6 +21,7 @@ Bio
     Classroom Teacher
   </summary>
 <p>
+
 July 2006 - Sept. 2017
 ##### High School
  - Integrated Math 1 / Algebra 1
