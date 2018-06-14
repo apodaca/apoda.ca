@@ -50,10 +50,36 @@ July 2006 - Sept. 2017
 </p>
 </details>
 
----
+<details>
+  <summary>
+    
+    ### Instructional Coach
+    
+  </summary>
+<p>
 
-### Instructional Coach
   2013-2016
   K-8 Mathematics
 
-### Technology Integration Specialist / Network Management
+</p>
+</details>
+
+<details>
+  <summary>
+    
+    ### Technology Integration Specialist / Network Management
+    
+  </summary>
+<p>
+
+  
+
+</p>
+</details>
+
+---
+
+
+
+
+
