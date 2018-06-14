@@ -53,7 +53,7 @@ July 2006 - Sept. 2017
 <details>
   <summary>
     
-    ### Instructional Coach
+   ### Instructional Coach
     
   </summary>
 <p>
@@ -67,7 +67,7 @@ July 2006 - Sept. 2017
 <details>
   <summary>
     
-    ### Technology Integration Specialist / Network Management
+   ### Technology Integration Specialist / Network Management
     
   </summary>
 <p>
