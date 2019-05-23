@@ -3,81 +3,20 @@
 ### About Me
 Bio
 
-
 ---
+# Class 1
 
-### Centennial R-1 School District - San Luis, Colorado
-<details>
-  <summary>
-    District Principal 
-  </summary>
-<p>
-2017-
-</p>
-</details>
 
-<details>
-  <summary>
-    Classroom Teacher
-  </summary>
-<p>
+# Class 2
 
-    July 2006 - Sept. 2017
-    ##### High School
-     - Integrated Math 1 / Algebra 1
-     - Integrated Math 2 / Geometry
-     - Integrated Math 3 / Algebra 2
-     - PreCalculus    
-     - AP Computer Science
-     - Elective ngineering Drafting and Design
-     - Biology
-     - Economics
-     - Agricultural Science
 
-     ###### Curriculum
-     * Eureka Mathematics
-     * CS50
+# Class 3
 
-    ##### Middle School
-     * 6th Grade Mathematics
-     * 7th Grade Mathematics
-     * 8th Grade Mathematics
-     * 7th Grade Science
-     * 8th Grade Scienc
 
-     ###### Curriculum     
-     * Eureka Math
-</p>
-</details>
 
-<details>
-  <summary>
-    Instructional Coach
-    
-  </summary>
-<p>
+# Class 4
 
-  2013-2016
-  K-8 Mathematics
 
-</p>
-</details>
 
-<details>
-  <summary>
-    Technology Integration Specialist / Network Management
-    
-  </summary>
-<p>
-
-  
-
-</p>
-</details>
-
+# Class 5
 ---
-
-
-
-
-
